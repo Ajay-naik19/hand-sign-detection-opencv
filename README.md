@@ -22,3 +22,5 @@ The system tracks the hand through the webcam and identifies different hand sign
 - (Optional) TensorFlow / Keras for training custom model
 
 
+![images](https://github.com/user-attachments/assets/c8037d28-6c47-4b33-ad69-9bee219985d7)
+
